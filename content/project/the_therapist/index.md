@@ -6,7 +6,7 @@ tags:
 - unity
 - education
 - robot4learning
-date: 'Jan 2022'
+date: '2022-01-01'
 showthedate : false
 
 # Optional external URL for project (replaces project detail page).
@@ -38,17 +38,3 @@ background. For those who are unwilling or unable to access the mental health
 services they require, serious games can help bridge the gap as a more
 approachable medium.
 However, these games are still in their early years (Fleming et al., 2017) and more
-studies need to be carried out before we can draw any definitive conclusions about
-their effectiveness (Lau, Smit, Fleming and Riper, 2017). Nevertheless, with the
-rapid improvement of technology, along with our growing understanding of how to
-best impact our players through game design techniques, these preliminary results
-show great promise.
-
-This project proposes to build a serious game, that unlike other does not intend to present itself as an alternate
-form of treatment but simply a mode of teaching. Hence our goal is to educate the
-users about mental health, and strategies to cope with stress and anxiety.
-
-## Outcomes
-
-- Estella Arabi
-- Duc Luong Ong
