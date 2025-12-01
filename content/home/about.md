@@ -1,7 +1,10 @@
----
-widget: about
-headless: true
-weight: 5
-title: ""
-author: admin
----
++++
+# About widget
+widget = "about"
+headless = true
+weight = 5
+title = ""
+author = "admin"
+active = true
++++
++++
